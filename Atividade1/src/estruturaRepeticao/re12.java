@@ -7,7 +7,7 @@ public class re12 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int opcao = 0;
-        float valor1, valor2, resultado;
+        float valor1 = 0, valor2 = 0, resultado;
         resultado = 0;
 
         do {
