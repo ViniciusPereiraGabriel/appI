@@ -12,6 +12,5 @@ public class main {
         andreza.endereco = "Rua tal das quantas";
         andreza.identidade = "280990423";
         andreza.telefone = "999549454";
-        
     }
 }
